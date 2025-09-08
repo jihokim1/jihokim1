@@ -1,4 +1,4 @@
-## Hi there 👋
+김지호(Jiho Kim) - Kim jiho 포트폴리오
 
 <!--
 **jihokim1/jihokim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
