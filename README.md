@@ -35,6 +35,7 @@
 6개월간 진행했던 프로젝트들 입니다!
 
 ### 🥊 UFC 승자 예측 앱
+- 시연영상 🎬 https://youtube.com/shorts/HztIjhbixAI?feature=share  
 - Kaggle 데이터셋 기반 머신러닝 모델(XGBoost, Logistic Regression) 학습 및 CoreML 변환  
 - SwiftUI 기반 UI/UX 설계 (승자 확률 게이지, 파이터 선택 기능)  
 - Realm으로 선수 데이터 로컬 저장  
