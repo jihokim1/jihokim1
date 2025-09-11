@@ -73,12 +73,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-
-## ⚒️ Tech Stack
-- **Languages** : Swift, Dart(Flutter), Python  
-- **Frameworks** : SwiftUI, Flutter, CoreML, scikit-learn, XGBoost  
-- **Backend/DB** : Firebase, FastAPI, Realm, Firestore  
-- **Tools** : Git/GitHub, Notion, Figma  
-
----
+📞 Contact
+이메일 : kig0128@naver.com
+깃허브 : https://github.com/jihokim1/jihokim1
