@@ -52,9 +52,9 @@
 
 ### 🍻 온담 (OnDam) 포차 앱
 
-- 시연영상 🎬 https://www.youtube.com/watch?v=qSgFwKN5boM - USER
-- 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN
--Flutter 기반 주점 메뉴·예약 관리 앱      
+- 시연영상 🎬 https://www.youtube.com/watch?v=qSgFwKN5boM - USER      
+- 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN      
+-Flutter 기반 주점 메뉴·예약 관리 앱        
 -Firebase Authentication을 통한 회원가입/로그인 기능 구현      
 -Firestore 기반 메뉴 데이터 및 예약 정보 관리        
 -GetX를 활용한 상태 관리 및 화면 전환 적용      
