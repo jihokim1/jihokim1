@@ -67,7 +67,7 @@
 - 커뮤니티,버스킹,행사 일정 확인 관리하는 Flutter 웹
 - 버스정류장 승하차 데이터 수집 및 가중치 기반 추론  
 - FastAPI 서버 구축 + Flutter 지도 UI/예측값 시각화  
-- 성과: 데이터 부족 상황에서 “추론 기반 예측” 접근 적용
+- 데이터 부족 상황에서 “추론 기반 예측” 접근 적용
 
 ### 핵심 스킬
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
