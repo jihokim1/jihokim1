@@ -42,6 +42,7 @@
 ---
 
 ### 🚗 한강 주차장 예측 앱
+- 시연영상 🎬 https://youtu.be/XnwwIKJ1mb0    
 - 유동인구 데이터를 활용해 주차 가능 대수를 예측하는 Flutter 앱  
 - 버스정류장 승하차 데이터 수집 및 가중치 기반 추론  
 - FastAPI 서버 구축 + Flutter 지도 UI/예측값 시각화  
@@ -51,7 +52,8 @@
 
 ### 🍻 온담 (OnDam) 포차 앱
 
-시연영상 🎬 https://youtu.be/XnwwIKJ1mb0    
+- 시연영상 🎬 https://www.youtube.com/watch?v=qSgFwKN5boM - USER
+- 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN
 -Flutter 기반 주점 메뉴·예약 관리 앱      
 -Firebase Authentication을 통한 회원가입/로그인 기능 구현      
 -Firestore 기반 메뉴 데이터 및 예약 정보 관리        
