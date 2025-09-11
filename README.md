@@ -14,19 +14,21 @@
 
 ---
 
-## 📌 Projects
+# Projects
 
 기간: 2025.03.16~ 2025.09.26
 
 ### 🍻 온담 (OnDam) 포차 앱
 
 - 시연영상 🎬 https://www.youtube.com/watch?v=qSgFwKN5boM - USER      
-- 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN      
+- 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN
+
+      
 -Flutter 기반 주점 메뉴·예약 관리 앱        
 -Firebase Authentication을 통한 회원가입/로그인 기능 구현      
 -Firestore 기반 메뉴 데이터 및 예약 정보 관리        
 -GetX를 활용한 상태 관리 및 화면 전환 적용      
--성과: MVP 완성, 사용자 친화적인 UI/UX 구현으로 포트폴리오 전시용 제작
+
 
 ### 핵심 스킬
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -39,6 +41,8 @@
 ---
 
 ### 🥊 UFC 승자 예측 앱
+
+
 - 시연영상 🎬 https://youtube.com/shorts/HztIjhbixAI?feature=share  
 - Kaggle 데이터셋 기반 머신러닝 모델(XGBoost, Logistic Regression) 학습 및 CoreML 변환  
 - SwiftUI 기반 UI/UX 설계 (승자 확률 게이지, 파이터 선택 기능)  
@@ -56,8 +60,11 @@
 ---
 
 ### 🚗 한강 주차장 예측 앱
-- 시연영상 🎬 https://youtu.be/XnwwIKJ1mb0    
-- 유동인구 데이터를 활용해 주차 가능 대수를 예측하는 Flutter 앱  
+- 시연영상 🎬 https://youtu.be/XnwwIKJ1mb0
+
+   
+- 유동인구 데이터를 활용해 주차 혼잡도를 예측하는 Swift 앱
+- 커뮤니티,버스킹,행사 일정 확인 관리하는 Flutter 웹
 - 버스정류장 승하차 데이터 수집 및 가중치 기반 추론  
 - FastAPI 서버 구축 + Flutter 지도 UI/예측값 시각화  
 - 성과: 데이터 부족 상황에서 “추론 기반 예측” 접근 적용
@@ -74,5 +81,4 @@
 
 ---
 📞 Contact
-이메일 : kig0128@naver.com
-깃허브 : https://github.com/jihokim1/jihokim1
+Email : kig0128@naver.com
