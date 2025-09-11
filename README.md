@@ -1,3 +1,14 @@
+# 👩‍💻 PARK SONGMI
+**Web FrontEnd Developer**
+
+📧 engineerssong@naver.com  
+📱 010-5732-3720  
+📝 [Blog](https://ssongmi1002.tistory.com)  
+💻 [GitHub](https://github.com/ssongmi)  
+
+![Profile Image](이미지_URL_삽입)  
+
+
 # 🧑🏻‍💻 김지호 포트폴리오  
 
 **김지호(Jiho Kim) · iOS & Flutter Developer**  
