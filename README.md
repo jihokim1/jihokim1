@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 김지호 포트폴리오  
 
-**김지호(Jiho Kim) · iOS & Flutter Developer**  
+**김지호(Jiho Kim) · Swift & Flutter Developer**  
 
 
 
