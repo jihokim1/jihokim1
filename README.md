@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 김지호 포트폴리오  
+# 김지호 포트폴리오  
 
 **김지호(Jiho Kim) · Swift & Flutter Developer**  
 
@@ -18,7 +18,7 @@
 
 기간: 2025.03.16~ 2025.09.26
 
-### 🍻 온담 (OnDam) 포차 앱
+###  온담 (OnDam) 포차 앱
 
 - 시연영상 🎬 https://www.youtube.com/watch?v=qSgFwKN5boM - USER      
 - 시연영상 🎬 https://youtu.be/ujFf5ikl-E8 - ADMIN
@@ -40,7 +40,7 @@
 
 ---
 
-### 🥊 UFC 승자 예측 앱
+###  UFC 승자 예측 앱
 
 
 - 시연영상 🎬 https://youtube.com/shorts/HztIjhbixAI?feature=share  
@@ -59,7 +59,7 @@
 
 ---
 
-### 🚗 한강 주차장 예측 앱
+### 한강 주차장 예측 앱
 - 시연영상 🎬 https://youtu.be/XnwwIKJ1mb0
 
    
